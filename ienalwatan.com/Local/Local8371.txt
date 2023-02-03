@@ -1,0 +1,25 @@
+«الأمن السيبراني» يصدر تحذيراً عالي الخطورة بشأن ثغرات في منتجات «Adobe» 
+
+أصدر المركز الوطني الإرشادي للأمن السيبراني، اليوم الأربعاء، تحذيراً أمنياً عالي الخطورة بشأن ثغرات أمنية في منتجات Adobe، موضحاً أنها تستهدف كل القطاعات.
+ وعن التهديدات المحتملة أوضح المركز أنه يمكن للمهاجم استغلال الثغرات والكشف والإفصاح عن معلومات حسّاسة، وتجاوز سعة مخزن الذاكرة المؤقت، وتنفيذ برمجيات خبيثة.
+ وأوصي المركز بتحديث النسخ المتأثرة، حيث أصدرت Adobe توضيحًا لهذه التحديثات كالتالي :
+ 
+ https://helpx.adobe.com/security/products/photoshop/apsb21-01.html
+ 
+ 
+ https://helpx.adobe.com/security/products/illustrator/apsb21-02.html
+ 
+ 
+ https://helpx.adobe.com/security/products/animate/apsb21-03.html
+ 
+ 
+ https://helpx.adobe.com/security/products/campaign/apsb21-04.html
+ 
+ 
+ https://helpx.adobe.com/security/products/incopy/apsb21-05.html
+ 
+ 
+ https://helpx.adobe.com/security/products/captivate/apsb21-06.html
+ 
+ 
+ https://helpx.adobe.com/security/products/bridge/apsb21-07.htm

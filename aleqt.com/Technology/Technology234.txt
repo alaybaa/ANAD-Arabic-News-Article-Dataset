@@ -1,0 +1,3 @@
+الأمن السيبراني : "أبل" تصدر تحديثات لمعالجة ثغرات خطيرة في عدد من المنتجات 
+
+ح المركز الوطني الإرشادي للأمن السيبراني أن شركة "أبل" أصدرت عدة تحديثات لمعالجة الثغرات في عدد من المنتجات يمكن للمهاجم استغلالها وتنفيذ برمجيات خبيثة. وبينت أن المنتجات المتضررة هي : Safari 14.1.2 Available for:macOS Catalina and macOS Mojave Security Update 2021-005 Catalina Available for: macOS Catalina macOS Big Sur 11.6 Available for: macOS Big Sur iOS 14.8 and iPadOS 14.8 Available for: iPhone 6s and later, iPad Pro (all models), iPad Air 2 and later, iPad 5th generation and later, iPad mini 4 and later, and iPod touch (7th generation) watchOS 7.6.2 Available for: Apple Watch Series 3 and later

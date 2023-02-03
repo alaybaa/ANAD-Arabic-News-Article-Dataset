@@ -1,0 +1,12 @@
+الأمن السيبراني يحذر من ثغرات «شديدة الخطورة» في منتجات «Apple» 
+
+حذر المركز الوطني الإرشادي للأمن السيبراني في رسالة بعنوان “تحذير أمني عالي جدا”، من ثغرات أمنية خطيرة في بعض منتجات شركة Apple.
+ وقال المركز، في تغريدة عبر حسابه الرسمي في “تويتر”، إن شركة Apple أصدرت عدّة تحديثات لمعالجة عددٍ من الثغرات في منتجاتها، مضيفا أن مستوى الخطورة عالي جدا.
+ وأضاف المركز الوطني الإرشادي للأمن السيبراني أن الشركة توصي بتحديث المنتجات إلى النسخ التالية:
+ iCloud 7.19متوفر للمنتجات التالية:Windows 7 وما بعدiCloud 11.2متوفر للمنتجات التالية:Windows 10 وما بعدSafari 13.1.1متوفر للمنتجات التالية:macOS MojavemacOS High SierramacOS CatalinaWindows Migration Assistant2.2.0.0 (v. 1A11)متوفر للمنتجات التالية:macOS Catalinaتحديث المنتجات التالية إلى:macOS High Sierra10.13.6macOS Mojave10.14.6macOS Catalina10.15.4
+ يمكن للمهاجم عن بعد استغلال الثغرات وتنفيذ ما يلي:
+ هجمة حجب الخدمة (DoS attack).هجمة البرمجة عبر المواقع (Cross-site scripting (XSS)).الكشف والإفصاح عن معلومات الذاكرة المعالجة.تنفيذ برمجيات خبيثة.
+ يوصي المركز بتحديث المنتجات المتأثرة، حيث أصدرت Apple توضيحًا لهذه التحديثات:
+ https://support.apple.com/ar-sa/HT211181https://support.apple.com/ar-sa/HT211179https://support.apple.com/ar-sa/HT211177https://support.apple.com/ar-sa/HT211186https://support.apple.com/ar-sa/HT211170
+ لمعرفة طريقة التحديث، يرجى زيارة الرابط التالي:
+ iCloudSafarimacOS High SierramacOS MojavemacOS Catalin
