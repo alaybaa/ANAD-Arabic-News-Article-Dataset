@@ -1,2 +1,1 @@
-# ArabicArticlesDataset
-# ArabicArticlesDataset
+# ANAD:Arabic News Article Dataset
